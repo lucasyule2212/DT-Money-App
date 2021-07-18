@@ -38,11 +38,17 @@
 <div align="center">
 
 ### :desktop_computer: Desktop
- 
-  <div>
-   ![enter image description here](https://user-images.githubusercontent.com/55456226/126053939-c2493b94-e584-4b9c-9485-17f443c74e01.png)
-  </div>
+ <img alt="cadastro-light" src="https://user-images.githubusercontent.com/55456226/126053939-c2493b94-e584-4b9c-9485-17f443c74e01.png" width="800px">
+ <img alt="main-light" src="https://user-images.githubusercontent.com/55456226/126054045-d6ff11d6-83c8-4c79-a457-4c5e4d7511b8.png" width="800px">
+ <img alt="cadastro-dark" src="https://user-images.githubusercontent.com/55456226/126054070-1872e75b-48b3-4c3e-830d-8bd10bea518a.png" width="800px">
+ <img alt="main-dark" src="https://user-images.githubusercontent.com/55456226/126054083-caaa7fff-68a8-41ba-9bd9-c0e8cac200ba.png" width="800px">
   
+
+
+
+ 
+
+
 ---
 ## :arrow_forward: **Run**
 
