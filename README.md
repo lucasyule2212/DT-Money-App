@@ -3,12 +3,9 @@
    [![Portuguese](https://www.countryflags.io/br/flat/32.png)](README.md)
   
 </div>
-<h1 align="center">
-  DT Money
-</h1>
 
 <p align="center">
-  <img alt="PROJECT NAME" src=".github/Capa.png" width="500px"/>
+  <img alt="PROJECT NAME" src="dt-money/src/assets/logo.svg" width="500px"/>
 </p>
 
 <p align="center"> 
@@ -30,8 +27,11 @@
 ---
 ## :information_source: About
 ### App developed during Rocketseat's Ignite :rocket::exclamation:
+<p>O objetivo desse App foi desenvolver os conceitos de Hooks,States,ContextAPI do React, além do uso do MirageJS e Styled Components.</p>
+<p>É uma aplicação de controle de finanças básico, constituído de um cadastro de várias operações(entrada e saídas de recursos) com um resumo dos recursos do usuário.</p>
+<p>Em adicional à aplicação original do Ignite, o Theme Changer foi desenvolvido utilizando Styled Components e auxílio de um Hook customizado para a persistência do tema.</p>
+<p>O projeto não tem como objetivo o uso da persistência nos dados cadastrados pelo usuário pelo motivo de apenas simular chamadas à Fake API criada com o MirageJS.</p>
 
-- #### DT Money :
 ---
 ## :eye_speech_bubble: **Preview**
 
@@ -40,7 +40,7 @@
 ### :desktop_computer: Desktop
  
   <div>
-    <kbd></kbd>  
+   ![enter image description here](https://user-images.githubusercontent.com/55456226/126053939-c2493b94-e584-4b9c-9485-17f443c74e01.png)
   </div>
   
 ---
